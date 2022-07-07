@@ -5,16 +5,15 @@
 
 Teste de Performace e Atributos da biblioteca [Three.js](https://threejs.org). 
 <br/>
-
 Se você gostou do projeto ou tem alguma sugestão acesse o [site](https://brasiot.com.br) mande um e-mail para bruno@dastratus.com.br.
 <br/>
 
-## Softwares e Bibliotecas
+Softwares e Bibliotecas
 
 [Three.js](https://threejs.org)
 
 <br/>
-## Conheça meus outros projetos
+Conheça meus outros projetos
 
 Visite o meu [site](https://brasiot.com.br) para saber mais sobre mim ou sobre outros projetos.
 <br/>
